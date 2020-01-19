@@ -1,5 +1,5 @@
 # react-native-animated-scroll-indicators
-![](example1.gif)
+![](example.gif)
 
 ## Installation
 Using npm:
