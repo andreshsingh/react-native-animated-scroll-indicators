@@ -1,0 +1,21 @@
+{
+  "name": "react-native-animated-scroll-indicators",
+  "version": "1.0.0",
+  "description": "Animated Scoll Indicator component fro react-native powered by Animated-api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native-animated-scroll-indicators",
+    "instagram-scroll-indicators"
+  ],
+  "author": "Andresh Singh",
+  "license": "MIT",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.57.0"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
