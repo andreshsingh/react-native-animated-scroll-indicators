@@ -11,10 +11,16 @@
     "url": "git+https://github.com/andreshsingh/react-native-animated-scroll-indicators"
   },
   "keywords": [
+    "react-native",
+    "react-component",
+    "instagram-scroll-indicators",
     "react-native-animated-scroll-indicators",
-    "instagram-scroll-indicators"
+    "ios",
+    "android",
+    "animated-api",
+    "react-native-scrollview"
   ],
-  "author": "Andresh Singh",
+  "author": "Andresh Singh <singhandresh09@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "metro-react-native-babel-preset": "^0.57.0"
