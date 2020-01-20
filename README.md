@@ -1,5 +1,6 @@
 # react-native-animated-scroll-indicators
 A package to display instagram-like animated scroll indicators on iOS as well as android.
+Works with Animated.Scrollview and Animated.Flatlist.
 
 ![](example.gif)
 
@@ -12,6 +13,15 @@ or using yarn:
 ```
 yarn add react-native-animated-scroll-indicators
 ```
+
+## Basic
+| Prop           |     Default     |   Type   | Description                                                                                                 |
+| :------------- | :-------------: | :------: | :---------------------------------------------------------------------------------------------------------- |
+| scrollWidth     |      -       |  `Number`  | This is the width of pagination of scrollview. |
+| numberOfCards   |      -       |  `Number`  | This number decides the number of dots which should be equivalent to the number of pages in the scrollview. |
+| scrollAnimatedValue |    -    | `Animated.Value` | This animated value is the derived from onScroll event from scrollview|
+| activeColor   |    '#8F9499'   |  `String`  | Color of the dot indicator when it is active. |
+| inActiveColor |    '#fff'     |  `String`  | Color of the dot indicator when it is inactive. |
 
 ## Usage
 ```

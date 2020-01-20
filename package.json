@@ -1,6 +1,6 @@
 {
   "name": "react-native-animated-scroll-indicators",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Animated Scoll Indicator component fro react-native powered by Animated-api.",
   "main": "index.js",
   "scripts": {
