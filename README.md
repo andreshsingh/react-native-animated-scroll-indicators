@@ -1,5 +1,6 @@
 # react-native-animated-scroll-indicators
 A package to display instagram-like animated scroll indicators.
+
 ![](example.gif)
 
 ## Installation
